@@ -1,5 +1,7 @@
 from abc import ABC, abstractmethod
 
+##### Matr.Nr.: 71970 
+
 
 class Konto(ABC):
     # Statisches Atribut für den Nmen der Bank
